@@ -19,6 +19,13 @@ body {
   padding-bottom: 40px;
 }
 
+#header {
+  padding: 15px;
+  margin-bottom: 20px;
+  background: #2a2a2a;
+  text-align: center;
+}
+
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
@@ -53,6 +60,7 @@ img {
 
 p {
   font-size: 1em;
+  color: #2a2a2a;
 }
 
 a {
